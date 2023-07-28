@@ -6,6 +6,7 @@ A curated list of awesome resources related to Automobile Industries and ADAS(Ad
 *AWS blog posts to build solutions at scale*
 
 * [Autonomous Vehicle and ADAS development on AWS Part 1: Achieving Scale](https://aws.amazon.com/blogs/industries/autonomous-vehicle-and-adas-development-on-aws-part-1-achieving-scale/)
+* [Auto-labeling module for deep learning-based Advanced Driver Assistance Systems on AWS](https://aws.amazon.com/blogs/machine-learning/auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws/)
 * [How to Run Massively Scalable ADAS Simulation Workloads on CAEdge](https://aws.amazon.com/blogs/architecture/how-to-run-massively-scalable-adas-simulation-workloads-on-caedge/)
 * [Field Notes: Building an Autonomous Driving and ADAS Data Lake on AWS](https://aws.amazon.com/blogs/architecture/field-notes-building-an-autonomous-driving-and-adas-data-lake-on-aws/)
 * [Field Notes: Deploying Autonomous Driving and ADAS Workloads at Scale with Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/blogs/architecture/field-notes-deploying-autonomous-driving-and-adas-workloads-at-scale-with-amazon-managed-workflows-for-apache-airflow/)
